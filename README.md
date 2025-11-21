@@ -1,4 +1,4 @@
 # Еco-Тrails
-Неофициален регисър и индекс на всички български екопътеки. Включва информация за локация и метаданни.
+Неофициален регистър и индекс на всички екопътеки в България, включва информация за локация и метаданни.
 
-Unofficial register and index of all bulgarian eco-trails. Includes location and metadata information.
+An unofficial registry and index of all eco-trails in Bulgaria, includes location data and metadata.
